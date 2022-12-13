@@ -2,6 +2,8 @@
 
 This project was inspired from a figma design
 It uses react components and state ui and responsive design to create this landing page
+
+Live site here : https://statuesque-marshmallow-ea24de.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
