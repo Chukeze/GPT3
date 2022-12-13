@@ -5,11 +5,11 @@ import logo from '../../assests/GPT-3.svg'
 
 const Menu =() => (
   <>
-    <li><a href="Home">Home</a></li>
-    <li><a href="wpt3">What is GPT?</a></li>
-    <li><a href="possibility">Open AI</a></li>
-    <li><a href="features">Case Studies</a></li>
-    <li><a href="blog">Library</a></li>
+    <li><a href="#Home">Home</a></li>
+    <li><a href="#wgpt3">What is GPT?</a></li>
+    <li><a href="#possibility">Open AI</a></li>
+    <li><a href="#features">Case Studies</a></li>
+    <li><a href="#blog">Library</a></li>
   </>
 )
 

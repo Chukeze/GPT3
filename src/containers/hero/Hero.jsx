@@ -18,9 +18,9 @@ const Hero = () => {
           <p>1,600 people requested access to visit in the last 24 hours</p>
         </div>
       </div>        
-      <div className="gpt3__header-image">
-          <img src={ai} alt="ai" />
-        </div>
+      <div className="gpt3__header-image"> 
+        <img src={ai} alt="ai" />
+      </div>
     </section>
   )
 }
